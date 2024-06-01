@@ -28,9 +28,43 @@ a :hover {
 a:active {
     color: purple;
 }
-h1 {
+.link {
     text-align: center;
 }
 a{
     color: purple;
+}
+.linkketto{
+    color: black;
+}
+.Parzival{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    float: right;
+}
+.Karaktercim{
+    margin-bottom: 20px;
+}
+.Parzivalcim{
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.Parzivaltext{
+    margin:40px;
+    text-align: center;
+}
+.Art3mis{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+.Wade{
+    margin-bottom: 120px;
+}
+.Art3mistext{
+    margin-top: 50px;
+    
 }
