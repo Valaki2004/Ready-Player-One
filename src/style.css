@@ -1,0 +1,9 @@
+body{
+    background-image: -webkit-linear-gradient(bottom,blue,pink,purple);
+    height: 1000px;
+    
+}
+.cím{
+    text-align: center;
+    color: white;
+}
