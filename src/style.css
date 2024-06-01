@@ -1,9 +1,36 @@
 body{
     background-image: -webkit-linear-gradient(bottom,blue,pink,purple);
-    height: 1000px;
-    
+    color: black;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 .cím{
     text-align: center;
-    color: white;
+}
+.storytext{
+    text-align: center;
+}
+.karakterek{
+    text-align: center;
+}
+.story{
+    margin-left: 25px;
+}
+a :link {
+    color: purple;
+}
+a:visited {
+    color: purple;
+}
+a :hover {
+    color: pink;
+}
+a:active {
+    color: purple;
+}
+h1 {
+    text-align: center;
+}
+a{
+    color: purple;
 }
