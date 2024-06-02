@@ -66,5 +66,12 @@ a{
 }
 .Art3mistext{
     margin-top: 50px;
+    text-align: center;
     
+}
+.James{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
 }
